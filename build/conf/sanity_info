@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /home/alex/yocto/poky-fido/build/tmp
+SSTATE_DIR /home/alex/yocto/poky-fido/build/sstate-cache
